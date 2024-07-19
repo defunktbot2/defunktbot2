@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @defunktbot2
+- 👋 Hi, I’m @defunktbot2 (my main was defunktbot, but lost access to it)
 - 👀 I’m interested in web design, anime, manga, alternative music, and digital art.
 - 🌱 I’m currently learning Creative Media with a concentration in Design and Media.
 - 💞️ I’m looking to collaborate on school projects if needed.
