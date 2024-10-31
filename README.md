@@ -13,7 +13,7 @@
 
 - 👀 I'm interested in **web design, anime, manga, alternative music, and digital art.**
 
-- 📫 How to reach me **@defunktbot on IG or Discord.**
+- 📫 Reach me **@defunktbot on IG or Discord.**
 
 - ⚡ Fun fact: **I can type up to 120 WPM (words per minute).**
 
