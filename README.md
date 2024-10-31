@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **@defunktbot on IG or Discord.**
 
-- ⚡ Fun fact **I can type up to 120 WPM (words per minute).**
+- ⚡ Fun fact: **I can type up to 120 WPM (words per minute).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
