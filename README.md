@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richie or @defunktbot2 (my main was defunktbot, but lost access to it).</h1>
+<h1 align="center">Hi 👋, I'm Richie or @defunktbot2 (my main was defunktbot, but I lost access to it).</h1>
 <h3 align="center">An aspiring UI/UX web designer from Hawaii</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defunktbot2&label=Profile%20views&color=0e75b6&style=flat" alt="defunktbot2" /> </p>
