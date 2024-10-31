@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **Creative Media with a concentration in Design and Media.**
+- 🌱 I’m currently learning **Creative Media with a concentration in Design and Media at UH West Oahu.**
 
 - 👯 I’m looking to collaborate on **school projects if needed.**
 
