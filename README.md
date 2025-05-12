@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **my portfolio.**
 
-- 🌱 I’m currently learning **Creative Media with a concentration in Design and Media at UH West Oahu.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python.**
 
-- 👯 I’m looking to collaborate on **school projects if needed.**
+- 👯 I’m looking to collaborate on **front-end web development projects if needed.**
 
 - 👀 I'm interested in **web design, anime, manga, alternative music, and digital art.**
 
