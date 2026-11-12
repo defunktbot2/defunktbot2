@@ -1,4 +1,4 @@
-# 👋 Aloha! I'm Richie (main: defunktbot; access lost)
+# 👋 Aloha, I'm Richie! (main: defunktbot; access lost)
 ## 💫 About Me:
 🔭 I’m currently working on my portfolio.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript, and Swift.<br><br>👯 I’m looking to collaborate on front-end web development projects if needed.<br><br>👨‍💻 All of my projects are available at https://www.richiegalacgac.com/<br><br>📝 Currently on hiatus, but I translate manga on https://www.pikuscans.com/<br><br>👀 I'm interested in web design, anime, manga, alternative music, and digital/traditional art.<br><br>📫 How to reach me: @defunktbot on IG or Discord, and at my email richiegalacgac@gmail.com.<br><br>📄 Know about my experiences: https://www.richiegalacgac.com/resume<br><br>⚡ Fun fact I can type up to 120 WPM (words per minute).
 
