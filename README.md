@@ -1,45 +1,27 @@
-<h1 align="center">Aloha 👋, I'm Richie (main: defunktbot; access lost).</h1>
-<h3 align="center">A freelance UI/UX web designer from Hawaii</h3>
+# 💫 About Me:
+🔭 I’m currently working on my portfolio.<br><br>🌱 I’m currently learning HTML, CSS, JavaScript, and Swift.<br><br>👯 I’m looking to collaborate on front-end web development projects if needed.<br><br>👨‍💻 All of my projects are available at https://www.richiegalacgac.com/<br><br>📝 Currently on hiatus, but I translate manga on https://www.pikuscans.com/<br><br>👀 I'm interested in web design, anime, manga, alternative music, and digital/traditional art.<br><br>📫 How to reach me: @defunktbot on IG or Discord, and at my email richiegalacgac@gmail.com.<br><br>📄 Know about my experiences: https://www.richiegalacgac.com/resume<br><br>⚡ Fun fact I can type up to 120 WPM (words per minute).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=defunktbot2&label=Profile%20views&color=0e75b6&style=flat" alt="defunktbot2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=defunktbot2" alt="defunktbot2" /></a> </p>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/richiegalacgac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/defunktbot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richiegalacgac) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/defunktbot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHxQKDhSyXiuZvSzYJGslOA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richiegalacgac@gmail.com) 
 
-- 🔭 I’m currently working on [my portfolio.](https://www.richiegalacgac.com/)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=defunktbot2&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=defunktbot2&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=defunktbot2&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Swift.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=defunktbot2&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
 
-- 👯 I’m looking to collaborate on **front-end web development projects if needed.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-- 👨‍💻 All of my projects are available at [https://www.richiegalacgac.com/](https://www.richiegalacgac.com/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=defunktbot2&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
-- 📝 Currently on hiatus, but I translate manga on [https://www.pikuscans.com/](https://www.pikuscans.com/)
+---
+[![](https://komarev.com/ghpvc/?username=defunktbot2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👀 I'm interested in **web design, anime, manga, alternative music, and digital/traditional art.**
-
-- 📫 How to reach me **@defunktbot on IG or Discord and at my email richiegalacgac@gmail.com.**
-
-- 📄 Know about my experiences [https://www.richiegalacgac.com/resume](https://www.richiegalacgac.com/resume)
-
-- ⚡ Fun fact **I can type up to 120 WPM (words per minute)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/richiegalacgac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richiegalacgac" height="30" width="40" /></a>
-<a href="https://instagram.com/defunktbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defunktbot" height="30" width="40" /></a>
-<a href="https://www.behance.net/richiegalacgac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="richiegalacgac" height="30" width="40" /></a>
-<a href="/https://www.pikuscans.com/blog-feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.pikuscans.com/blog-feed.xml" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defunktbot2&show_icons=true&theme=dark&locale=en&layout=compact" alt="defunktbot2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defunktbot2&show_icons=true&theme=dark&locale=en" alt="defunktbot2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defunktbot2&theme=dark" alt="defunktbot2" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
